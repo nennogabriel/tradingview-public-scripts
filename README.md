@@ -1,2 +1,2 @@
 # tradingview-public-scripts
-Conjunto de Scripts para analise gráfica no Tradingview
+Scripts for technical analyses in TradingView
